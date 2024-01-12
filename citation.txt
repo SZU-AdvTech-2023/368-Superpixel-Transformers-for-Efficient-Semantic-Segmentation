@@ -1,0 +1,10 @@
+@article{REPO368,
+    author = "Zhu, Alex Zihao and Mei, Jieru and Qiao, Siyuan and Yan, Hang and Zhu, Yukun and Chen, Liang-Chieh and Kretzschmar, Henrik",
+    archiveprefix = "arXiv",
+    eprint = "1",
+    journal = "IROS",
+    note = "Submitted on 28 Sep 2023 (v1), last revised 2 Oct 2023 (this version, v2)",
+    primaryclass = "cs.CV",
+    title = "{Superpixel Transformers for Efficient Semantic Segmentation}",
+    year = "2023"
+}
